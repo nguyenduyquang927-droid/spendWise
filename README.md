@@ -25,8 +25,8 @@ Trang cung cấp thông tin tổng quan về số dư hiện tại, thu nhập, 
 
 | Công nghệ | Mục đích |
 |---|---|
-| HTML5 | Xây dựng cấu trúc trang web. |
-| CSS3 | Thiết kế giao diện, bố cục và Responsive. |
+| HTML | Xây dựng cấu trúc trang web. |
+| CSS| Thiết kế giao diện, bố cục và Responsive. |
 | JavaScript | Xử lý chức năng và tương tác người dùng. |
 | Visual Studio Code | Môi trường viết mã nguồn. |
 | Figma | Thiết kế giao diện trang web. |
